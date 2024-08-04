@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
-  {
+  
     "scripts": {
       "build": "[my-framework] build --output public"
     }
-  },
+  ,
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "7.2.0",
